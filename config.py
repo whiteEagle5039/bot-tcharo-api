@@ -1,0 +1,9 @@
+DB_CONFIG = {
+    'host': '127.0.0.1',
+    'port': 3307,  # Port local du tunnel SSH
+    'user': 'laravel_user',
+    'password': 'benincare',
+    'database': 'laravel_db'
+}
+ACCESS_TOKEN = "EAAUlP5lfTYcBO2H6FKXYUgIUvPAZCPMgZC3Fj9vTgfxG8BZCmj5GZBCFitE8XMzDVYWHZA1G76bNoYasZAFQLr9YAY5DioFzBvATpqEcEXyqJJxS10IZCiSZBawMew1maKRC1TZADaVa7FF0w6GLo2ZCD7hwq70NlgiNkVCFZCYQ8jAgyTI18Uz2CAZANmfMDf1wmkKIYRvZAhub0Wf8JPI3C3ZBxEAEZAVV7ZC0w4KMc3YZD"
+PHONE_NUMBER_ID="633683749832843"
