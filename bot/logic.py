@@ -26,7 +26,7 @@ def run_bot(data):
             cursor.execute("SELECT id, name FROM service_categories LIMIT 3;")
             categories = cursor.fetchall()
             return {
-                "message": f"Bonjour {patient['first_name']}, je suis Tchoro, votre assistant pour vous aider à prendre rendez-vous! ! voici les catégories de services disponibles :",
+                "message": f"Bonjour {patient['first_name']}, je suis Tchoro, ton assistant pour vous aider à prendre rendez-vous! ! voici les catégories de services disponibles :",
                 "options": categories,
                 "next_step": 2
             }
