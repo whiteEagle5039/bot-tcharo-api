@@ -338,5 +338,5 @@ Une collection Postman sera bientôt disponible pour faciliter le test de tous l
 -----
 
 ```
-API TCHORO 
+API TCHORO (est entrain d'ecrire ....)
 ```
